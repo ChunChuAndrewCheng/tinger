@@ -1,2 +1,2 @@
 # tinger
-Project Tinger
+Project Tinger -- details TBD
